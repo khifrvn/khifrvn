@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khifrvn
-Metaverse i'm coming!
+wish u understand my code hehe
 
 <!---
 khifrvn/khifrvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
