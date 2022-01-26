@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @khifrvn
-wish u understand my code hehe
+wish u understand my code buddy:)
 
 <!---
 khifrvn/khifrvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
