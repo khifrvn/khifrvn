@@ -1,6 +1,5 @@
-<h3> Hii, I'm <a src="https://www.instagram.com/khifrvn">Khifrvn</a></h3>
 Wish u understand my code:)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<hr>
 
 <!---
 khifrvn/khifrvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
