@@ -1,4 +1,5 @@
-<h3 style="font-family='sans-serif'"> Hii, I'm <a src="https://www.instagram.com/khifrvn>Khifrvn</a><br></h3>
+<h3> Hii, I'm <a src="https://www.instagram.com/khifrvn">Khifrvn</a></h3>
+Wish u understand my code:)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khifrvn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!---
