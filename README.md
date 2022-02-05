@@ -2,6 +2,7 @@ Wish u understand my code:)
 <hr>
 
 - [Instagram](https://instagram.com/khifrvn)<br>
+- [LinkedIn](https://www.linkedin.com/in/muhammad-khifransyah-055b4a188/)<br>
 <!---
 khifrvn/khifrvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
