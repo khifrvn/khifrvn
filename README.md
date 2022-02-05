@@ -1,6 +1,6 @@
 Wish u understand my code:)
 <hr>
-
+Curious with me:
 - [Instagram](https://instagram.com/khifrvn)<br>
 - [LinkedIn](https://www.linkedin.com/in/muhammad-khifransyah-055b4a188/)<br>
 <!---
