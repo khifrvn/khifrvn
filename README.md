@@ -1,5 +1,5 @@
 Hello there, 
-Wish u understand my code:)
+wish u understand my code:)
 <hr>
 
 - [Instagram](https://instagram.com/khifrvn)<br>
