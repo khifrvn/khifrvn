@@ -1,5 +1,5 @@
-Heyy, 
-hope u understand my code:)
+Heyy, need help?
+contact me on:
 <hr>
 
 - [Instagram](https://instagram.com/khifrvn)<br>
