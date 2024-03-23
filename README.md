@@ -1,7 +1,7 @@
 Hey There! 👋
 I'm Khifran - I'm a Flutter Mobile Developer Enthusiasts.
 
-📫 How to reach me
+📫 How to reach me:
   - email     : khifrvn@gmail.com
   - tiktok    : @khifrandev
   - instagram : @khifrandev
