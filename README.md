@@ -1,6 +1,6 @@
 Hey There! 👋 
 <br>
-I'm Khifran - I'm a Flutter Mobile Developer Enthusiasts.
+I'm Khifran - Flutter Mobile Developer.
 
 📫 How to reach me:
   - email     : khifrvn@gmail.com
