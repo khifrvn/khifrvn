@@ -1,11 +1,13 @@
 Hey There! 👋 
 <br>
-I'm Khifran - Flutter Mobile Developer.
+🍀 I'm Khifran - Flutter Mobile Developer.
+
+👨🏻‍💻 My recent project: 
+<a href="http://www.khifrandev.com">khifrandev.com</a>
 
 📫 How to reach me:
-  - email     : khifrvn@gmail.com
-  - tiktok    : @khifrandev
-  - instagram : @khifrandev
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khifrvn&show=reviews&show_icons=true&theme=merko)
-
+<ul>
+  <li>Email: <a href="mailto:khifrvn@gmail.com">khifrvn@gmail.com</a></li>
+  <li>TikTok: <a href="https://www.tiktok.com/@khifrandev">@khifrandev</a></li>
+  <li>Instagram: <a href="https://www.instagram.com/khifrandev">@khifrandev</a></li>
+</ul>
