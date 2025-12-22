@@ -13,6 +13,6 @@ I'm Khifran - Flutter Mobile Developer.
 📫 How to reach me:
 <ul>
   <li>Email: <a href="mailto:khifrandev@gmail.com">khifrandev@gmail.com</a></li>
-  <li>TikTok: <a href="https://www.tiktok.com/@khifrandev">@khifrandev</a></li>
+  <li>TikTok: <a href="https://www.tiktok.com/@khifrandevsolution">@khifrandevsolution</a></li>
   <li>Instagram: <a href="https://www.instagram.com/khifrandev">@khifrandev</a></li>
 </ul>
